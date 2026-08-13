@@ -6,4 +6,4 @@ class Solution:
             if diff in freq:
                 return [freq.get(diff),i]
             freq[nums[i]] = i
-        return []   
+        return []
