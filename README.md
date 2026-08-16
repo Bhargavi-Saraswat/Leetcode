@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0128-longest-consecutive-sequence](https://github.com/Bhargavi-Saraswat/Leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/Bhargavi-Saraswat/Leetcode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Bhargavi-Saraswat/Leetcode/tree/master/0217-contains-duplicate) |
+| [0704-binary-search](https://github.com/Bhargavi-Saraswat/Leetcode/tree/master/0704-binary-search) |
 | [0853-car-fleet](https://github.com/Bhargavi-Saraswat/Leetcode/tree/master/0853-car-fleet) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Bhargavi-Saraswat/Leetcode/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Two Pointers
@@ -92,4 +93,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Bhargavi-Saraswat/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
+## Binary Search
+|  |
+| ------- |
+| [0704-binary-search](https://github.com/Bhargavi-Saraswat/Leetcode/tree/master/0704-binary-search) |
 <!---LeetCode Topics End-->
