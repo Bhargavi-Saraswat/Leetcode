@@ -62,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/Bhargavi-Saraswat/Leetcode/tree/master/0084-largest-rectangle-in-histogram) |
+| [0225-implement-stack-using-queues](https://github.com/Bhargavi-Saraswat/Leetcode/tree/master/0225-implement-stack-using-queues) |
 | [0853-car-fleet](https://github.com/Bhargavi-Saraswat/Leetcode/tree/master/0853-car-fleet) |
 ## Monotonic Stack
 |  |
@@ -98,4 +99,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0704-binary-search](https://github.com/Bhargavi-Saraswat/Leetcode/tree/master/0704-binary-search) |
+## Design
+|  |
+| ------- |
+| [0225-implement-stack-using-queues](https://github.com/Bhargavi-Saraswat/Leetcode/tree/master/0225-implement-stack-using-queues) |
+## Queue
+|  |
+| ------- |
+| [0225-implement-stack-using-queues](https://github.com/Bhargavi-Saraswat/Leetcode/tree/master/0225-implement-stack-using-queues) |
 <!---LeetCode Topics End-->
