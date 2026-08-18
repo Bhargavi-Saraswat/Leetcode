@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0128-longest-consecutive-sequence](https://github.com/Bhargavi-Saraswat/Leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/Bhargavi-Saraswat/Leetcode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Bhargavi-Saraswat/Leetcode/tree/master/0217-contains-duplicate) |
+| [0229-majority-element-ii](https://github.com/Bhargavi-Saraswat/Leetcode/tree/master/0229-majority-element-ii) |
 | [0496-next-greater-element-i](https://github.com/Bhargavi-Saraswat/Leetcode/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/Bhargavi-Saraswat/Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0704-binary-search](https://github.com/Bhargavi-Saraswat/Leetcode/tree/master/0704-binary-search) |
@@ -35,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/Bhargavi-Saraswat/Leetcode/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/Bhargavi-Saraswat/Leetcode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Bhargavi-Saraswat/Leetcode/tree/master/0217-contains-duplicate) |
+| [0229-majority-element-ii](https://github.com/Bhargavi-Saraswat/Leetcode/tree/master/0229-majority-element-ii) |
 | [0853-car-fleet](https://github.com/Bhargavi-Saraswat/Leetcode/tree/master/0853-car-fleet) |
 ## Quicksort
 |  |
@@ -52,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0128-longest-consecutive-sequence](https://github.com/Bhargavi-Saraswat/Leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/Bhargavi-Saraswat/Leetcode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Bhargavi-Saraswat/Leetcode/tree/master/0217-contains-duplicate) |
+| [0229-majority-element-ii](https://github.com/Bhargavi-Saraswat/Leetcode/tree/master/0229-majority-element-ii) |
 | [0496-next-greater-element-i](https://github.com/Bhargavi-Saraswat/Leetcode/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/Bhargavi-Saraswat/Leetcode/tree/master/0560-subarray-sum-equals-k) |
 ## Divide and Conquer
@@ -63,10 +66,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Bhargavi-Saraswat/Leetcode/tree/master/0169-majority-element) |
+| [0229-majority-element-ii](https://github.com/Bhargavi-Saraswat/Leetcode/tree/master/0229-majority-element-ii) |
 ## Boyer–Moore Majority Vote Algorithm
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Bhargavi-Saraswat/Leetcode/tree/master/0169-majority-element) |
+| [0229-majority-element-ii](https://github.com/Bhargavi-Saraswat/Leetcode/tree/master/0229-majority-element-ii) |
 ## Stack
 |  |
 | ------- |
