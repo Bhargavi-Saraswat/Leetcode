@@ -2,7 +2,6 @@ class Solution:
     def nextGreaterElement(self, nums1: List[int], nums2: List[int]) -> List[int]:
         arr = [-1]*len(nums1)
         freq = {}
-        c = 0
         for i in range(len(nums2)):
             freq[nums2[i]] = i
         for i in range(len(nums1)):
