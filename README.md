@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0704-binary-search](https://github.com/Bhargavi-Saraswat/Leetcode/tree/master/0704-binary-search) |
 | [0853-car-fleet](https://github.com/Bhargavi-Saraswat/Leetcode/tree/master/0853-car-fleet) |
 | [1386-cinema-seat-allocation](https://github.com/Bhargavi-Saraswat/Leetcode/tree/master/1386-cinema-seat-allocation) |
+| [1872-stone-game-viii](https://github.com/Bhargavi-Saraswat/Leetcode/tree/master/1872-stone-game-viii) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Bhargavi-Saraswat/Leetcode/tree/master/2149-rearrange-array-elements-by-sign) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Bhargavi-Saraswat/Leetcode/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/Bhargavi-Saraswat/Leetcode/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
@@ -134,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0007-reverse-integer](https://github.com/Bhargavi-Saraswat/Leetcode/tree/master/0007-reverse-integer) |
 | [0048-rotate-image](https://github.com/Bhargavi-Saraswat/Leetcode/tree/master/0048-rotate-image) |
+| [1872-stone-game-viii](https://github.com/Bhargavi-Saraswat/Leetcode/tree/master/1872-stone-game-viii) |
 | [1927-sum-game](https://github.com/Bhargavi-Saraswat/Leetcode/tree/master/1927-sum-game) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/Bhargavi-Saraswat/Leetcode/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/Bhargavi-Saraswat/Leetcode/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
@@ -143,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/Bhargavi-Saraswat/Leetcode/tree/master/0053-maximum-subarray) |
 | [0118-pascals-triangle](https://github.com/Bhargavi-Saraswat/Leetcode/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Bhargavi-Saraswat/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [1872-stone-game-viii](https://github.com/Bhargavi-Saraswat/Leetcode/tree/master/1872-stone-game-viii) |
 ## Binary Search
 |  |
 | ------- |
@@ -163,6 +166,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0560-subarray-sum-equals-k](https://github.com/Bhargavi-Saraswat/Leetcode/tree/master/0560-subarray-sum-equals-k) |
+| [1872-stone-game-viii](https://github.com/Bhargavi-Saraswat/Leetcode/tree/master/1872-stone-game-viii) |
 ## Greedy
 |  |
 | ------- |
@@ -194,5 +198,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Game Theory
 |  |
 | ------- |
+| [1872-stone-game-viii](https://github.com/Bhargavi-Saraswat/Leetcode/tree/master/1872-stone-game-viii) |
 | [1927-sum-game](https://github.com/Bhargavi-Saraswat/Leetcode/tree/master/1927-sum-game) |
+## Minimax
+|  |
+| ------- |
+| [1872-stone-game-viii](https://github.com/Bhargavi-Saraswat/Leetcode/tree/master/1872-stone-game-viii) |
+## Zero-Sum Game
+|  |
+| ------- |
+| [1872-stone-game-viii](https://github.com/Bhargavi-Saraswat/Leetcode/tree/master/1872-stone-game-viii) |
 <!---LeetCode Topics End-->
