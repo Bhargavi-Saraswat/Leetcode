@@ -185,6 +185,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0394-decode-string](https://github.com/Bhargavi-Saraswat/Leetcode/tree/master/0394-decode-string) |
 | [1927-sum-game](https://github.com/Bhargavi-Saraswat/Leetcode/tree/master/1927-sum-game) |
+| [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/Bhargavi-Saraswat/Leetcode/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 ## Recursion
 |  |
 | ------- |
@@ -218,4 +219,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1148-article-views-i](https://github.com/Bhargavi-Saraswat/Leetcode/tree/master/1148-article-views-i) |
 | [1683-invalid-tweets](https://github.com/Bhargavi-Saraswat/Leetcode/tree/master/1683-invalid-tweets) |
 | [1757-recyclable-and-low-fat-products](https://github.com/Bhargavi-Saraswat/Leetcode/tree/master/1757-recyclable-and-low-fat-products) |
+## Sliding Window
+|  |
+| ------- |
+| [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/Bhargavi-Saraswat/Leetcode/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 <!---LeetCode Topics End-->
