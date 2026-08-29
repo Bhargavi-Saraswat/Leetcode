@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1386-cinema-seat-allocation](https://github.com/Bhargavi-Saraswat/Leetcode/tree/master/1386-cinema-seat-allocation) |
 | [1872-stone-game-viii](https://github.com/Bhargavi-Saraswat/Leetcode/tree/master/1872-stone-game-viii) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Bhargavi-Saraswat/Leetcode/tree/master/2149-rearrange-array-elements-by-sign) |
+| [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/Bhargavi-Saraswat/Leetcode/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Bhargavi-Saraswat/Leetcode/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/Bhargavi-Saraswat/Leetcode/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/Bhargavi-Saraswat/Leetcode/tree/master/3471-find-the-largest-almost-missing-integer) |
@@ -58,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/Bhargavi-Saraswat/Leetcode/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/Bhargavi-Saraswat/Leetcode/tree/master/0229-majority-element-ii) |
 | [0853-car-fleet](https://github.com/Bhargavi-Saraswat/Leetcode/tree/master/0853-car-fleet) |
+| [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/Bhargavi-Saraswat/Leetcode/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 ## Quicksort
 |  |
 | ------- |
@@ -124,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/Bhargavi-Saraswat/Leetcode/tree/master/0128-longest-consecutive-sequence) |
+| [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/Bhargavi-Saraswat/Leetcode/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 ## Range Minimum/Maximum Query
 |  |
 | ------- |
