@@ -4,6 +4,6 @@ class Solution:
         for i in range(len(nums)):
             diff = target - nums[i]
             if diff in freq:
-                return [freq.get(diff),i]
+                return [freq[diff],i]
             freq[nums[i]] = i
         return []
