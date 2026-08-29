@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0018-4sum](https://github.com/Bhargavi-Saraswat/Leetcode/tree/master/0018-4sum) |
 | [0031-next-permutation](https://github.com/Bhargavi-Saraswat/Leetcode/tree/master/0031-next-permutation) |
 | [0075-sort-colors](https://github.com/Bhargavi-Saraswat/Leetcode/tree/master/0075-sort-colors) |
+| [0125-valid-palindrome](https://github.com/Bhargavi-Saraswat/Leetcode/tree/master/0125-valid-palindrome) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Bhargavi-Saraswat/Leetcode/tree/master/2149-rearrange-array-elements-by-sign) |
 | [3734-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/Bhargavi-Saraswat/Leetcode/tree/master/3734-lexicographically-smallest-palindromic-permutation-greater-than-target) |
 ## Sorting
@@ -190,6 +191,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0125-valid-palindrome](https://github.com/Bhargavi-Saraswat/Leetcode/tree/master/0125-valid-palindrome) |
 | [0394-decode-string](https://github.com/Bhargavi-Saraswat/Leetcode/tree/master/0394-decode-string) |
 | [1927-sum-game](https://github.com/Bhargavi-Saraswat/Leetcode/tree/master/1927-sum-game) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/Bhargavi-Saraswat/Leetcode/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
