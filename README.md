@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/Bhargavi-Saraswat/Leetcode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Bhargavi-Saraswat/Leetcode/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/Bhargavi-Saraswat/Leetcode/tree/master/0229-majority-element-ii) |
+| [0283-move-zeroes](https://github.com/Bhargavi-Saraswat/Leetcode/tree/master/0283-move-zeroes) |
 | [0496-next-greater-element-i](https://github.com/Bhargavi-Saraswat/Leetcode/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Bhargavi-Saraswat/Leetcode/tree/master/0503-next-greater-element-ii) |
 | [0560-subarray-sum-equals-k](https://github.com/Bhargavi-Saraswat/Leetcode/tree/master/0560-subarray-sum-equals-k) |
@@ -51,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0031-next-permutation](https://github.com/Bhargavi-Saraswat/Leetcode/tree/master/0031-next-permutation) |
 | [0075-sort-colors](https://github.com/Bhargavi-Saraswat/Leetcode/tree/master/0075-sort-colors) |
 | [0125-valid-palindrome](https://github.com/Bhargavi-Saraswat/Leetcode/tree/master/0125-valid-palindrome) |
+| [0283-move-zeroes](https://github.com/Bhargavi-Saraswat/Leetcode/tree/master/0283-move-zeroes) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Bhargavi-Saraswat/Leetcode/tree/master/2149-rearrange-array-elements-by-sign) |
 | [3734-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/Bhargavi-Saraswat/Leetcode/tree/master/3734-lexicographically-smallest-palindromic-permutation-greater-than-target) |
 ## Sorting
