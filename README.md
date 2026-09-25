@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/Bhargavi-Saraswat/Leetcode/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/Bhargavi-Saraswat/Leetcode/tree/master/0229-majority-element-ii) |
 | [0283-move-zeroes](https://github.com/Bhargavi-Saraswat/Leetcode/tree/master/0283-move-zeroes) |
+| [0347-top-k-frequent-elements](https://github.com/Bhargavi-Saraswat/Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0496-next-greater-element-i](https://github.com/Bhargavi-Saraswat/Leetcode/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Bhargavi-Saraswat/Leetcode/tree/master/0503-next-greater-element-ii) |
 | [0560-subarray-sum-equals-k](https://github.com/Bhargavi-Saraswat/Leetcode/tree/master/0560-subarray-sum-equals-k) |
@@ -71,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/Bhargavi-Saraswat/Leetcode/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/Bhargavi-Saraswat/Leetcode/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/Bhargavi-Saraswat/Leetcode/tree/master/0242-valid-anagram) |
+| [0347-top-k-frequent-elements](https://github.com/Bhargavi-Saraswat/Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0853-car-fleet](https://github.com/Bhargavi-Saraswat/Leetcode/tree/master/0853-car-fleet) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/Bhargavi-Saraswat/Leetcode/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/Bhargavi-Saraswat/Leetcode/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
@@ -94,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/Bhargavi-Saraswat/Leetcode/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/Bhargavi-Saraswat/Leetcode/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/Bhargavi-Saraswat/Leetcode/tree/master/0242-valid-anagram) |
+| [0347-top-k-frequent-elements](https://github.com/Bhargavi-Saraswat/Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0496-next-greater-element-i](https://github.com/Bhargavi-Saraswat/Leetcode/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/Bhargavi-Saraswat/Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [1386-cinema-seat-allocation](https://github.com/Bhargavi-Saraswat/Leetcode/tree/master/1386-cinema-seat-allocation) |
@@ -107,11 +110,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0053-maximum-subarray](https://github.com/Bhargavi-Saraswat/Leetcode/tree/master/0053-maximum-subarray) |
 | [0169-majority-element](https://github.com/Bhargavi-Saraswat/Leetcode/tree/master/0169-majority-element) |
+| [0347-top-k-frequent-elements](https://github.com/Bhargavi-Saraswat/Leetcode/tree/master/0347-top-k-frequent-elements) |
 ## Counting
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Bhargavi-Saraswat/Leetcode/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/Bhargavi-Saraswat/Leetcode/tree/master/0229-majority-element-ii) |
+| [0347-top-k-frequent-elements](https://github.com/Bhargavi-Saraswat/Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/Bhargavi-Saraswat/Leetcode/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 ## Boyer–Moore Majority Vote Algorithm
 |  |
@@ -332,4 +337,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0836-rectangle-overlap](https://github.com/Bhargavi-Saraswat/Leetcode/tree/master/0836-rectangle-overlap) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/Bhargavi-Saraswat/Leetcode/tree/master/0347-top-k-frequent-elements) |
+## Bucket Sort
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/Bhargavi-Saraswat/Leetcode/tree/master/0347-top-k-frequent-elements) |
+## Quickselect
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/Bhargavi-Saraswat/Leetcode/tree/master/0347-top-k-frequent-elements) |
 <!---LeetCode Topics End-->
