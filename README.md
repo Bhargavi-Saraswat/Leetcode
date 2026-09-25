@@ -70,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/Bhargavi-Saraswat/Leetcode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Bhargavi-Saraswat/Leetcode/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/Bhargavi-Saraswat/Leetcode/tree/master/0229-majority-element-ii) |
+| [0242-valid-anagram](https://github.com/Bhargavi-Saraswat/Leetcode/tree/master/0242-valid-anagram) |
 | [0853-car-fleet](https://github.com/Bhargavi-Saraswat/Leetcode/tree/master/0853-car-fleet) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/Bhargavi-Saraswat/Leetcode/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/Bhargavi-Saraswat/Leetcode/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
@@ -92,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/Bhargavi-Saraswat/Leetcode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Bhargavi-Saraswat/Leetcode/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/Bhargavi-Saraswat/Leetcode/tree/master/0229-majority-element-ii) |
+| [0242-valid-anagram](https://github.com/Bhargavi-Saraswat/Leetcode/tree/master/0242-valid-anagram) |
 | [0496-next-greater-element-i](https://github.com/Bhargavi-Saraswat/Leetcode/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/Bhargavi-Saraswat/Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [1386-cinema-seat-allocation](https://github.com/Bhargavi-Saraswat/Leetcode/tree/master/1386-cinema-seat-allocation) |
@@ -231,6 +233,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/Bhargavi-Saraswat/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0115-distinct-subsequences](https://github.com/Bhargavi-Saraswat/Leetcode/tree/master/0115-distinct-subsequences) |
 | [0125-valid-palindrome](https://github.com/Bhargavi-Saraswat/Leetcode/tree/master/0125-valid-palindrome) |
+| [0242-valid-anagram](https://github.com/Bhargavi-Saraswat/Leetcode/tree/master/0242-valid-anagram) |
 | [0394-decode-string](https://github.com/Bhargavi-Saraswat/Leetcode/tree/master/0394-decode-string) |
 | [0940-distinct-subsequences-ii](https://github.com/Bhargavi-Saraswat/Leetcode/tree/master/0940-distinct-subsequences-ii) |
 | [1927-sum-game](https://github.com/Bhargavi-Saraswat/Leetcode/tree/master/1927-sum-game) |
